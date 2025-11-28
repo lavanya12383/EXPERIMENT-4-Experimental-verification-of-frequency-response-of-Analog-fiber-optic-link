@@ -4,6 +4,8 @@
 # Fiber Optic Link Analysis (660nm)
 
 ## AIM
+![WhatsApp Image 2025-11-28 at 10 20 16_ec8fc2c2](https://github.com/user-attachments/assets/586b2138-ad8b-4fbe-990b-518dd0808e9a)
+
 To analyze the relationship between input and received signal of a 660nm fiber optic cable using analog and digital link.
 
 ---
@@ -56,6 +58,8 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 ---
 
 ## TABULATION  
+![WhatsApp Image 2025-11-28 at 10 20 16_9fa0ef83](https://github.com/user-attachments/assets/7e35c724-1678-48fd-8beb-b6bd25424917)
+
 **Transmission through Analog Link**
 
 | Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
@@ -72,5 +76,7 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 
 ## RESULT
 [Uploading analog .pdf…]()
+![WhatsApp Image 2025-11-28 at 10 20 17_b2ce64a9](https://github.com/user-attachments/assets/1c2af0ef-8993-4a13-9358-eab73fddb5fc)
+
 
 *(Summarize observations and conclusions here)*
