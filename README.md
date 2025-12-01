@@ -64,8 +64,8 @@ Setting up an Analog Link
 ## MODEL GRAPH
 ![515630165-01a5a04a-c230-4511-b52a-cf4de3f19e94](https://github.com/user-attachments/assets/5aa94417-8b29-4b38-88c1-6bbbb64d63e1)
 
+![517866184-e1c41a2b-61d0-4664-a7bb-73e5457b95f6](https://github.com/user-attachments/assets/b2cd0043-04dd-4f52-8d71-fdd1fb8dc594)
 
-![Uploading 515630295-093541f5-0b67-4f74-8818-aba275ddfb43.jpg…]()
 
 ---
 
